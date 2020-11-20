@@ -1,0 +1,107 @@
+.box1 {
+    width: 430.7px;
+    height: 250px;;
+    color: white;;
+    display: inline-block;
+    font-size: 130%;
+    color:#747474;
+    margin-bottom: 100px;}
+.title{
+    color: #00b39b;
+    font-size: 2.125rem;
+    font-family:Arial,sans-serif;
+    letter-spacing: 3px;
+    font-weight: 300;
+    margin-bottom: 40px;}
+.container{
+    margin-bottom: 1.5cm;
+}
+.lead__logo{margin-bottom: 1cm;}
+.navbar{color: #ffffff}
+.dcg {display: inline;}
+#dc{color:#00b39b;}
+#grp {color: #a5a5a5;}
+
+.p1 {height: 200px;
+    width: 500px; }
+.p2 {height: 200px;
+    width: 500px;
+margin: 20px; }
+.p1, .p2 {display: inline-block;}
+.block1 {display: block;
+background: #00b39b;
+height: 335px;
+width: 470px;
+border-radius: 10px;}
+.block2 {display: block;
+    background: #3d83df;
+    height: 335px;
+    width: 470px;
+    border-radius: 10px;}
+.block1, .block2 {display: inline-block;
+color: blanchedalmond;
+font-family:Arial,sans-serif;
+text-align: left;}
+
+
+.weare {color:#00b39b;}
+.services {display: block;
+width: 1499px;
+height: 620px;
+background-color: #cffaf5;
+}
+.flag {display: block;
+    width: 240px;
+    height: 200px;
+    background: #ffffff;
+    color: #00b39b;
+    border-radius: 4px;
+    margin: 0.4cm;
+    font-size: 140%;
+}
+#flag {font-size: 100%;}
+.calendar{display: block;
+    width: 240px;
+    height: 200px;
+    background: #ffffff;
+    color: #00b39b;
+    border-radius: 4px;
+    margin: 0.4cm;
+    font-size: 194%;
+}
+#calendar {font-size: 100%;}
+.patients{display: block;
+    width: 240px;
+    height: 200px;
+    background: hsl(0, 0%, 100%);
+    color:#00b39b;
+    border-radius: 4px;
+    margin: 0.4cm;
+    font-size: 194%;
+}
+#patients {font-size: 100%;}
+.diver {display: block;
+    width: 240px;
+    height: 200px;
+    background: hsl(0, 0%, 100%);
+    color: #00b39b;
+    border-radius: 4px;
+    margin: 0.4cm;
+    font-size: 200%;
+    
+}
+#diver {font-size: 100%;}
+
+.info {display: flex;
+     justify-content: flex-end;
+     margin-right: 5cm;
+    }
+.text1{
+    width: 400px;
+    height: 200px; }
+.the-world {font-size: 240%;
+    color: #00b39b;
+    font-family:Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: 3px;} 
+
